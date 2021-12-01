@@ -1,0 +1,3 @@
+pyannote.audio==1.1.1
+pydub
+SpeechRecognition==3.8.1

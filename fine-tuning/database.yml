@@ -1,0 +1,39 @@
+Databases:
+   AMI: ./amicorpus/*/audio/{uri}.wav
+   MUSAN: ./musan/{uri}.wav
+   WIDYA: /content/drive/MyDrive/WDY-DZ/audio/{uri}.wav
+
+Protocols:
+   WIDYA:
+      SpeakerDiarization:
+        Dataset:
+          train:
+            uri: /content/widya-wicara-diarization/fine-tuning/Widya/WDY-DZ.train.lst
+            annotation: /content/widya-wicara-diarization/fine-tuning/Widya/WDY-DZ.train.rttm
+            annotated: /content/widya-wicara-diarization/fine-tuning/Widya/WDY-DZ.train.uem
+        
+   AMI:
+      SpeakerDiarization:
+         MixHeadset:
+           train:
+              uri: ./AMI/MixHeadset.train.lst
+              annotation: ./AMI/MixHeadset.train.rttm
+              annotated: ./AMI/MixHeadset.train.uem
+           development:
+              uri: ./AMI/MixHeadset.development.lst
+              annotation: ./AMI/MixHeadset.development.rttm
+              annotated: ./AMI/MixHeadset.development.uem
+           test:
+              uri: ./AMI/MixHeadset.test.lst
+              annotation: ./AMI/MixHeadset.test.rttm
+              annotated: ./AMI/MixHeadset.test.uem
+   MUSAN:
+      Collection:
+         BackgroundNoise:
+            uri: ./MUSAN/background_noise.txt
+         Noise:
+            uri: ./MUSAN/noise.txt
+         Music:
+            uri: ./MUSAN/music.txt
+         Speech:
+            uri: ./MUSAN/speech.txt

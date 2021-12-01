@@ -1,0 +1,9 @@
+detection_fscore: 0.5210697794878041
+epoch: 1341
+params:
+  min_duration_off: 0.1
+  min_duration_on: 0.1
+  offset: 0.40562515973427665
+  onset: 0.40562515973427665
+  pad_offset: 0.0
+  pad_onset: 0.0

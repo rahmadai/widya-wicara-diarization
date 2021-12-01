@@ -1,0 +1,142 @@
+[
+ {
+  "transcript": "Selamat siang Ibu",
+  "file_name": "segment-0.wav",
+  "speaker": "cs",
+  "duration": 11.313,
+  "timestamp": {
+   "start": 109.01253125,
+   "end": 115.03184375000001
+  }
+ },
+ {
+  "transcript": "perkenalkan Ibu saya minta verifikasi data terkait pengajuan motornya benar",
+  "file_name": "segment-2.wav",
+  "speaker": "cs",
+  "duration": 0.0,
+  "timestamp": {
+   "start": 109.01253125,
+   "end": 115.03184375000001
+  }
+ },
+ {
+  "transcript": "Baik Ibu sebelum waktunya punya saya ingin mampir dikasih tentang data-datanya bersedih ya ya Ibu dibantu Sebutkan nama lengkapnya siapa",
+  "file_name": "segment-4.wav",
+  "speaker": "cs",
+  "duration": 10.231312499999994,
+  "timestamp": {
+   "start": 109.01253125,
+   "end": 115.03184375000001
+  }
+ },
+ {
+  "transcript": "Windi Astuti",
+  "file_name": "segment-5.wav",
+  "speaker": "user",
+  "duration": 0.0,
+  "timestamp": {
+   "start": 109.01253125,
+   "end": 115.03184375000001
+  }
+ },
+ {
+  "transcript": "selain untuk tempat dan tanggal lahirnya di mana",
+  "file_name": "segment-6.wav",
+  "speaker": "cs",
+  "duration": 0.0,
+  "timestamp": {
+   "start": 109.01253125,
+   "end": 115.03184375000001
+  }
+ },
+ {
+  "transcript": "silakan ibu",
+  "file_name": "segment-8.wav",
+  "speaker": "cs",
+  "duration": 0.0,
+  "timestamp": {
+   "start": 109.01253125,
+   "end": 115.03184375000001
+  }
+ },
+ {
+  "transcript": "makasih 1590",
+  "file_name": "segment-9.wav",
+  "speaker": "user",
+  "duration": 0.0,
+  "timestamp": {
+   "start": 109.01253125,
+   "end": 115.03184375000001
+  }
+ },
+ {
+  "transcript": "untuk alamatnya saat ini di mana tinggalnya",
+  "file_name": "segment-10.wav",
+  "speaker": "cs",
+  "duration": 0.0,
+  "timestamp": {
+   "start": 109.01253125,
+   "end": 115.03184375000001
+  }
+ },
+ {
+  "transcript": "Saya tinggal di Cileungsi",
+  "file_name": "segment-11.wav",
+  "speaker": "user",
+  "duration": 5.8269375,
+  "timestamp": {
+   "start": 109.01253125,
+   "end": 115.03184375000001
+  }
+ },
+ {
+  "transcript": "di Cileungsi baik untuk alamat lengkapnya ya monyet di jalan apa ada nama jalannya tidak dikompres dengan Elsa baik bloknya blok apa",
+  "file_name": "segment-12.wav",
+  "speaker": "cs",
+  "duration": 8.626499999999993,
+  "timestamp": {
+   "start": 109.01253125,
+   "end": 115.03184375000001
+  }
+ },
+ {
+  "transcript": "Barbie bersayap",
+  "file_name": "segment-13.wav",
+  "speaker": "user",
+  "duration": 2.688187499999998,
+  "timestamp": {
+   "start": 109.01253125,
+   "end": 115.03184375000001
+  }
+ },
+ {
+  "transcript": "baik tidak mengetahuinya punya dia baik tidak apa jika tidak mengetahui RT RW ingin mengetahui tidak-tidak Kelurahan dan kecamatannya untuk Pekerjaan ibu saat ini apa bukan saudaranya yang ditanyakan kembali untuk pekerjaannya saat ini apa",
+  "file_name": "segment-14.wav",
+  "speaker": "cs",
+  "duration": 19.765687499999984,
+  "timestamp": {
+   "start": 109.01253125,
+   "end": 115.03184375000001
+  }
+ },
+ {
+  "transcript": "pegawai-pegawai",
+  "file_name": "segment-15.wav",
+  "speaker": "user",
+  "duration": 2.8704375000000084,
+  "timestamp": {
+   "start": 109.01253125,
+   "end": 115.03184375000001
+  }
+ },
+ {
+  "transcript": "segalanya lebih tepatnya pegawai apa tidak segalanya lebih tepatnya Mbak dengan sangat indah untuk ibu kandungnya saat namanya siapa",
+  "file_name": "segment-16.wav",
+  "speaker": "cs",
+  "duration": 13.202999999999975,
+  "timestamp": {
+   "start": 109.01253125,
+   "end": 115.03184375000001
+  }
+ }
+]

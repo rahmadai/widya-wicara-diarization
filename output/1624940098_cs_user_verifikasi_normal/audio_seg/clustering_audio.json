@@ -1,0 +1,380 @@
+[
+ {
+  "file_name": "seg_audio-0.wav",
+  "speaker": "cs",
+  "duration": 0.739125,
+  "timestamp": {
+   "start": 0.01015625,
+   "end": 0.74928125
+  }
+ },
+ {
+  "file_name": "seg_audio-1.wav",
+  "speaker": "cs",
+  "duration": 0.8167499999999999,
+  "timestamp": {
+   "start": 1.00409375,
+   "end": 1.8208437499999999
+  }
+ },
+ {
+  "file_name": "seg_audio-2.wav",
+  "speaker": "cs",
+  "duration": 1.1204999999999998,
+  "timestamp": {
+   "start": 5.73078125,
+   "end": 6.8512812499999995
+  }
+ },
+ {
+  "file_name": "seg_audio-3.wav",
+  "speaker": "cs",
+  "duration": 1.5778125000000003,
+  "timestamp": {
+   "start": 9.74534375,
+   "end": 11.32315625
+  }
+ },
+ {
+  "file_name": "seg_audio-4.wav",
+  "speaker": "user",
+  "duration": 0.6142500000000002,
+  "timestamp": {
+   "start": 11.896906249999999,
+   "end": 12.511156249999999
+  }
+ },
+ {
+  "file_name": "seg_audio-5.wav",
+  "speaker": "cs",
+  "duration": 4.696312499999996,
+  "timestamp": {
+   "start": 12.75246875,
+   "end": 17.448781249999996
+  }
+ },
+ {
+  "file_name": "seg_audio-6.wav",
+  "speaker": "user",
+  "duration": 0.5720625000000013,
+  "timestamp": {
+   "start": 18.667156249999998,
+   "end": 19.23921875
+  }
+ },
+ {
+  "file_name": "seg_audio-7.wav",
+  "speaker": "cs",
+  "duration": 5.153624999999998,
+  "timestamp": {
+   "start": 19.53959375,
+   "end": 24.69321875
+  }
+ },
+ {
+  "file_name": "seg_audio-8.wav",
+  "speaker": "cs",
+  "duration": 0.45731250000000045,
+  "timestamp": {
+   "start": 26.044906249999997,
+   "end": 26.502218749999997
+  }
+ },
+ {
+  "file_name": "seg_audio-9.wav",
+  "speaker": "cs",
+  "duration": 2.995312499999997,
+  "timestamp": {
+   "start": 26.77559375,
+   "end": 29.770906249999996
+  }
+ },
+ {
+  "file_name": "seg_audio-10.wav",
+  "speaker": "user",
+  "duration": 1.503562500000001,
+  "timestamp": {
+   "start": 33.36528125,
+   "end": 34.86884375
+  }
+ },
+ {
+  "file_name": "seg_audio-11.wav",
+  "speaker": "cs",
+  "duration": 3.1016249999999985,
+  "timestamp": {
+   "start": 34.97346875,
+   "end": 38.07509375
+  }
+ },
+ {
+  "file_name": "seg_audio-12.wav",
+  "speaker": "user",
+  "duration": 0.6851249999999993,
+  "timestamp": {
+   "start": 38.90871875,
+   "end": 39.59384375
+  }
+ },
+ {
+  "file_name": "seg_audio-13.wav",
+  "speaker": "cs",
+  "duration": 1.2824999999999989,
+  "timestamp": {
+   "start": 40.489906250000004,
+   "end": 41.77240625
+  }
+ },
+ {
+  "file_name": "seg_audio-14.wav",
+  "speaker": "user",
+  "duration": 1.8781875000000028,
+  "timestamp": {
+   "start": 42.83046875,
+   "end": 44.708656250000004
+  }
+ },
+ {
+  "file_name": "seg_audio-15.wav",
+  "speaker": "cs",
+  "duration": 2.8535624999999953,
+  "timestamp": {
+   "start": 45.24865625,
+   "end": 48.10221875
+  }
+ },
+ {
+  "file_name": "seg_audio-16.wav",
+  "speaker": "user",
+  "duration": 1.3769999999999953,
+  "timestamp": {
+   "start": 50.223406250000004,
+   "end": 51.60040625
+  }
+ },
+ {
+  "file_name": "seg_audio-17.wav",
+  "speaker": "user",
+  "duration": 0.713812499999996,
+  "timestamp": {
+   "start": 51.90078125,
+   "end": 52.61459375
+  }
+ },
+ {
+  "file_name": "seg_audio-18.wav",
+  "speaker": "user",
+  "duration": 2.249437499999999,
+  "timestamp": {
+   "start": 53.800906250000004,
+   "end": 56.05034375
+  }
+ },
+ {
+  "file_name": "seg_audio-19.wav",
+  "speaker": "cs",
+  "duration": 2.4215625000000003,
+  "timestamp": {
+   "start": 56.58190625,
+   "end": 59.00346875
+  }
+ },
+ {
+  "file_name": "seg_audio-20.wav",
+  "speaker": "cs",
+  "duration": 3.650062499999997,
+  "timestamp": {
+   "start": 59.32409375,
+   "end": 62.97415625
+  }
+ },
+ {
+  "file_name": "seg_audio-21.wav",
+  "speaker": "cs",
+  "duration": 1.4259374999999963,
+  "timestamp": {
+   "start": 63.78246875,
+   "end": 65.20840625
+  }
+ },
+ {
+  "file_name": "seg_audio-22.wav",
+  "speaker": "user",
+  "duration": 1.1677500000000123,
+  "timestamp": {
+   "start": 65.49190625,
+   "end": 66.65965625000001
+  }
+ },
+ {
+  "file_name": "seg_audio-23.wav",
+  "speaker": "user",
+  "duration": 1.2808124999999961,
+  "timestamp": {
+   "start": 66.89928125,
+   "end": 68.18009375
+  }
+ },
+ {
+  "file_name": "seg_audio-24.wav",
+  "speaker": "cs",
+  "duration": 1.5322500000000048,
+  "timestamp": {
+   "start": 68.46696875,
+   "end": 69.99921875000001
+  }
+ },
+ {
+  "file_name": "seg_audio-25.wav",
+  "speaker": "cs",
+  "duration": 3.9284999999999854,
+  "timestamp": {
+   "start": 70.29284375,
+   "end": 74.22134374999999
+  }
+ },
+ {
+  "file_name": "seg_audio-26.wav",
+  "speaker": "cs",
+  "duration": 2.332125000000019,
+  "timestamp": {
+   "start": 74.82209375,
+   "end": 77.15421875000001
+  }
+ },
+ {
+  "file_name": "seg_audio-27.wav",
+  "speaker": "cs",
+  "duration": 0.5197499999999877,
+  "timestamp": {
+   "start": 77.87309375000001,
+   "end": 78.39284375
+  }
+ },
+ {
+  "file_name": "seg_audio-28.wav",
+  "speaker": "cs",
+  "duration": 2.1127500000000055,
+  "timestamp": {
+   "start": 78.68140625000001,
+   "end": 80.79415625000001
+  }
+ },
+ {
+  "file_name": "seg_audio-29.wav",
+  "speaker": "cs",
+  "duration": 1.4731874999999945,
+  "timestamp": {
+   "start": 82.16946875,
+   "end": 83.64265624999999
+  }
+ },
+ {
+  "file_name": "seg_audio-30.wav",
+  "speaker": "cs",
+  "duration": 3.2399999999999807,
+  "timestamp": {
+   "start": 84.99265625000001,
+   "end": 88.23265624999999
+  }
+ },
+ {
+  "file_name": "seg_audio-31.wav",
+  "speaker": "user",
+  "duration": 1.1610000000000014,
+  "timestamp": {
+   "start": 88.64440625,
+   "end": 89.80540625
+  }
+ },
+ {
+  "file_name": "seg_audio-32.wav",
+  "speaker": "user",
+  "duration": 1.0040625000000034,
+  "timestamp": {
+   "start": 90.51078125000001,
+   "end": 91.51484375000001
+  }
+ },
+ {
+  "file_name": "seg_audio-33.wav",
+  "speaker": "cs",
+  "duration": 2.470499999999987,
+  "timestamp": {
+   "start": 92.92221875000001,
+   "end": 95.39271875
+  }
+ },
+ {
+  "file_name": "seg_audio-34.wav",
+  "speaker": "cs",
+  "duration": 2.0368124999999964,
+  "timestamp": {
+   "start": 98.87909375000001,
+   "end": 100.91590625
+  }
+ },
+ {
+  "file_name": "seg_audio-35.wav",
+  "speaker": "cs",
+  "duration": 1.4428125000000023,
+  "timestamp": {
+   "start": 101.30234375,
+   "end": 102.74515625000001
+  }
+ },
+ {
+  "file_name": "seg_audio-36.wav",
+  "speaker": "cs",
+  "duration": 1.562624999999997,
+  "timestamp": {
+   "start": 103.43365625000001,
+   "end": 104.99628125000001
+  }
+ },
+ {
+  "file_name": "seg_audio-37.wav",
+  "speaker": "cs",
+  "duration": 0.8893124999999884,
+  "timestamp": {
+   "start": 105.23590625,
+   "end": 106.12521874999999
+  }
+ },
+ {
+  "file_name": "seg_audio-38.wav",
+  "speaker": "user",
+  "duration": 0.8167500000000132,
+  "timestamp": {
+   "start": 106.30915625,
+   "end": 107.12590625000001
+  }
+ },
+ {
+  "file_name": "seg_audio-39.wav",
+  "speaker": "user",
+  "duration": 0.371249999999975,
+  "timestamp": {
+   "start": 108.35609375000001,
+   "end": 108.72734374999999
+  }
+ },
+ {
+  "file_name": "seg_audio-40.wav",
+  "speaker": "cs",
+  "duration": 2.9514374999999973,
+  "timestamp": {
+   "start": 109.01253125,
+   "end": 111.96396874999999
+  }
+ },
+ {
+  "file_name": "seg_audio-41.wav",
+  "speaker": "cs",
+  "duration": 2.82487500000002,
+  "timestamp": {
+   "start": 112.20696874999999,
+   "end": 115.03184375000001
+  }
+ }
+]
